@@ -41,6 +41,8 @@ return productRepository.save(theProduct);
 
     @Override
     public void deleteById(int theId) {
-productRepository.deleteById( theId);
+
+        System.out.println("hello");
+        productRepository.deleteById( theId);
     }
 }
