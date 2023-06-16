@@ -17,7 +17,8 @@
 		<java.version>17</java.version>
 		<sonar.organization>ayush-bajpai47</sonar.organization>
 		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
-		<sonar.projectKey>ayush-bajpai47_springassignment2-0</sonar.projectKey>
+
+		<sonar.projectKey>Ayush-Bajpai47_springassignment</sonar.projectKey>
 
 	</properties>
 	<dependencies>
